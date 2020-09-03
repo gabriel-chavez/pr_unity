@@ -1,0 +1,108 @@
+{ "skeleton": { "images": "C:/Users/Gabriel/Documents/Proyectos UNITY/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "mano_i", "bone": "root", "attachment": "mano_i" },
+	{ "name": "brazo_i", "bone": "root", "attachment": "brazo_i" },
+	{ "name": "CUERPO", "bone": "root", "attachment": "CUERPO" },
+	{ "name": "ZAPATO_I", "bone": "root", "attachment": "ZAPATO_I" },
+	{ "name": "PIE_D", "bone": "root", "attachment": "PIE_D" },
+	{ "name": "ZAPATO_D", "bone": "root", "attachment": "ZAPATO_D" },
+	{ "name": "PIE_I", "bone": "root", "attachment": "PIE_I" },
+	{ "name": "btnfondo", "bone": "root", "attachment": "btnfondo" },
+	{ "name": "btn2", "bone": "root", "attachment": "btn2" },
+	{ "name": "btn1", "bone": "root", "attachment": "btn1" },
+	{ "name": "Mano_d", "bone": "root", "attachment": "Mano_d" },
+	{ "name": "Brazo_d", "bone": "root", "attachment": "Brazo_d" },
+	{ "name": "Cara", "bone": "root", "attachment": "Cara" },
+	{ "name": "Boca", "bone": "root", "attachment": "Boca" },
+	{ "name": "cabello3", "bone": "root", "attachment": "cabello3" },
+	{ "name": "cabello2", "bone": "root", "attachment": "cabello2" },
+	{ "name": "cabello1", "bone": "root", "attachment": "cabello1" },
+	{ "name": "OJOS", "bone": "root", "attachment": "OJOS" },
+	{ "name": "CUELLO", "bone": "root", "attachment": "CUELLO" },
+	{ "name": "Ceja1", "bone": "root", "attachment": "Ceja1" },
+	{ "name": "Ceja2", "bone": "root", "attachment": "Ceja2" },
+	{ "name": "Mejilla", "bone": "root", "attachment": "Mejilla" },
+	{ "name": "Oreja", "bone": "root", "attachment": "Oreja" },
+	{ "name": "nariz", "bone": "root", "attachment": "nariz" }
+],
+"skins": {
+	"default": {
+		"mano_i": {
+			"mano_i": { "x": 389, "y": -652, "width": 68, "height": 80 }
+		},
+		"brazo_i": {
+			"brazo_i": { "x": 329, "y": -524, "width": 146, "height": 236 }
+		},
+		"CUERPO": {
+			"CUERPO": { "x": 256, "y": -521.5, "width": 160, "height": 343 }
+		},
+		"ZAPATO_I": {
+			"ZAPATO_I": { "x": 376, "y": -923, "width": 166, "height": 104 }
+		},
+		"PIE_D": {
+			"PIE_D": { "x": 317.5, "y": -773.5, "width": 123, "height": 307 }
+		},
+		"ZAPATO_D": {
+			"ZAPATO_D": { "x": 239.5, "y": -928, "width": 169, "height": 114 }
+		},
+		"PIE_I": {
+			"PIE_I": { "x": 209.5, "y": -774.5, "width": 139, "height": 277 }
+		},
+		"btnfondo": {
+			"btnfondo": { "x": 264.5, "y": -523.5, "width": 93, "height": 305 }
+		},
+		"btn2": {
+			"btn2": { "x": 286, "y": -523, "width": 40, "height": 42 }
+		},
+		"btn1": {
+			"btn1": { "x": 291.5, "y": -605, "width": 41, "height": 42 }
+		},
+		"Mano_d": {
+			"Mano_d": { "x": 162, "y": -681, "width": 76, "height": 82 }
+		},
+		"Brazo_d": {
+			"Brazo_d": { "x": 177.5, "y": -529, "width": 93, "height": 252 }
+		},
+		"Cara": {
+			"Cara": { "x": 186.5, "y": -218, "width": 375, "height": 334 }
+		},
+		"Boca": {
+			"Boca": { "x": 271.5, "y": -316.5, "width": 267, "height": 135 }
+		},
+		"cabello3": {
+			"cabello3": { "x": 193.5, "y": -51.5, "width": 57, "height": 77 }
+		},
+		"cabello2": {
+			"cabello2": { "x": 245, "y": -39.5, "width": 50, "height": 81 }
+		},
+		"cabello1": {
+			"cabello1": { "x": 297.5, "y": -44, "width": 47, "height": 78 }
+		},
+		"OJOS": {
+			"OJOS": { "x": 282.5, "y": -177, "width": 297, "height": 164 }
+		},
+		"CUELLO": {
+			"CUELLO": { "x": 234.5, "y": -410.5, "width": 235, "height": 69 }
+		},
+		"Ceja1": {
+			"Ceja1": { "x": 171, "y": -104.5, "width": 120, "height": 87 }
+		},
+		"Ceja2": {
+			"Ceja2": { "x": 319.5, "y": -79.5, "width": 89, "height": 43 }
+		},
+		"Mejilla": {
+			"Mejilla": { "x": 145, "y": -268.5, "width": 94, "height": 111 }
+		},
+		"Oreja": {
+			"Oreja": { "x": 68.5, "y": -178, "width": 55, "height": 110 }
+		},
+		"nariz": {
+			"nariz": { "x": 350.5, "y": -315.5, "width": 47, "height": 33 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "C:/Users/Gabriel/Documents/Proyectos UNITY/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Path + Path", "bone": "root", "attachment": "Path + Path" }
+],
+"skins": {
+	"default": {
+		"Path + Path": {
+			"Path + Path": { "x": 237.5, "y": -81, "width": 297, "height": 164 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
